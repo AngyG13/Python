@@ -1,8 +1,8 @@
 #IMC
 
-Peso = 75.75
-Altura = 1.52
+Weight = 75.75
+Height = 1.52
 
-IMC = peso / (altura**2)
+IMC = weight / (height**2)
 
 Print(IMC)
