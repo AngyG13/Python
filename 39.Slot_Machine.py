@@ -23,6 +23,14 @@ win = results[0] == "7️⃣" and results[1] == "7️⃣" and results[2] == "7�
 if win:
     print("Jackpot!!! 💰")
     break
+    else:
+    results = random.choices(symbols, k=3)
     
+answer = ''
+while answer.upper() != "N":
+    play()
+    answer = input("keep playing? (Y/N) ")
+    
+print("Thanks for playing!")
 
         
