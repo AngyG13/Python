@@ -22,3 +22,7 @@
     print("3. 🥤 Soda")
     print("4. 🍦 Ice Cream")
     print("5. 🍪 Cookie")
+    
+Welcome()
+option = int(input("What would you like to order? "))
+print(get_item(option))
