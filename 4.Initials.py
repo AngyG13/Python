@@ -1,4 +1,4 @@
-#Mi nombre es Angy González
+# Mi nombre es Angy González
 Print("AAAA   G")
 Print("A   A  G")
 Print("A   A  G")
