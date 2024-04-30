@@ -1,4 +1,6 @@
-#Carta
+# Carta
+# Codédex
+
 Print("×~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~×")
 Print("                                               Abril 2023")
 Print("                                           Azuay, Ecuador")
