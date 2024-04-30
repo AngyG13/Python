@@ -1,2 +1,2 @@
-# Bucket List: Jerry Zh
+# Bucket 
 
