@@ -1,4 +1,5 @@
-#The Cyclone
+# The Cyclone 🎢
+# Codédex
 
 Height = int(input("What is your height (cm)? "))
 Credits = int(input("How many credits do you have? "))
