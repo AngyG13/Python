@@ -1,4 +1,5 @@
-#Currency
+# Currency 💵
+# Codédex
 
 Pesos = int(input("What do you have left in pesos? "))
 Soles = int(input("What do you have left in soles? "))
