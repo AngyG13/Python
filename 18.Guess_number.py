@@ -1,5 +1,5 @@
 # Guess number 🔢
-# Codédec
+# Codédex
 
 guess = 0
 tries = 0
