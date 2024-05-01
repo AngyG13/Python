@@ -1,4 +1,5 @@
-# sorting hat
+# Sorting Hat 🧙🏻‍♀️
+# Codédex
 
 gryffindor = 0
 hufflepuff = 0
