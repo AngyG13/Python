@@ -1,4 +1,5 @@
-#Grades
+# Grades 💯
+# Codédex
 
 Grade = 55
 If grade > 55
