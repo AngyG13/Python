@@ -1,5 +1,5 @@
 # Coin Flip
-#Codédex
+# Codédex
 
 import random
 
