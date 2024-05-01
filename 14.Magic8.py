@@ -1,4 +1,5 @@
-#Magic 8 Ball
+# Magic 8 Ball 🎱
+# Codédex
 
 Import random
 Question = input("Question:    ")
